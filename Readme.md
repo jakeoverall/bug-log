@@ -112,7 +112,7 @@ Delete
 - At least 2 supported routes
     - Home shows all bugs
     - Details displays the details of a bug and its comments
-    - Comments can only be added to a bug from the details view
+- Comments can only be added to a bug from the details view
 - Styling Indication on main page that bug is closed (color, strike-through, etc.)
 - No option to 'add note' once bug is closed
 
