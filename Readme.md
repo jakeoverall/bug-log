@@ -1,6 +1,6 @@
 # Bug-Report
 
-Welcome to the BugReport! 
+Welcome to the Bug-Report! 
 
 You have been tasked with creating a tool to better report bugs for your team. The goal being, to better track bugs in your application, as well as the process taken to solve them.
 
