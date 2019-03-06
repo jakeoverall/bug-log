@@ -15,7 +15,7 @@ Here are some mock-ups from the client
 
 ### Home View:
 <div>
-  <img class="img-responsive" src="Home.jpg" />
+  <img class="img-responsive" style="border: 1px solid black;padding: 10px" src="Home.jpg" />
 </div>
 
 From the Home page users can view all the bugs that have been added, color coded to which are open and closed.
@@ -29,7 +29,7 @@ Try to implement pagination here, as well as being able to sort by the status or
 
 ### Details View:
 <div>
-  <img class="img-responsive" src="Details.jpg" />
+  <img class="img-responsive"  style="border: 1px solid black;padding: 10px"  src="Details.jpg" />
 </div>
 
 The details view provides some additional information about the bug, as well as showing all the comments made by other users. Here comments can be deleted and added as well. 
